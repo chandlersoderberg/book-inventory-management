@@ -1,25 +1,28 @@
-📚 Book Inventory Management System
+# 📚 Book Inventory Management System
+
 A modern React application for managing book inventory with CRUD operations.
-✨ Features
 
-✅ CRUD Operations (Create, Read, Update, Delete)
-✅ API Integration (Google Books API)
-✅ Responsive Design
-✅ Form Validation
-✅ Book Details Page
-✅ Clean UI with Tailwind CSS
+## ✨ Features
 
-🛠️ Tech Stack
+- ✅ CRUD Operations (Create, Read, Update, Delete)
+- ✅ API Integration (Google Books API)
+- ✅ Responsive Design
+- ✅ Form Validation
+- ✅ Book Details Page
+- ✅ Clean UI with Tailwind CSS
 
-React 18
-React Router
-Axios
-Tailwind CSS
-Vite
+## 🛠️ Tech Stack
 
-📦 Installation
-bash# Clone repository
-git clone https://github.com/your-username/book-inventory-management.git
+- React 18
+- React Router
+- Axios
+- Tailwind CSS
+- Vite
+
+## 📦 Installation
+```bash
+# Clone repository
+git clone https://github.com/chandlersoderberg/book-inventory-management.git
 cd book-inventory-management
 
 # Install dependencies
@@ -27,8 +30,11 @@ npm install
 
 # Start development server
 npm run dev
-🚀 Build & Deploy
-bash# Build for production
+```
+
+## 🚀 Build & Deploy
+```bash
+# Build for production
 npm run build
 
 # Deploy to Vercel/Netlify
@@ -42,14 +48,18 @@ src/
 ├── services/      # API integration
 ├── utils/         # Validation logic
 └── App.jsx        # Main routing
-🌐 Live Demo
-Live Link
-📸 Screenshots
-Show Image
-👨‍💻 Developer
-Your Name
+```
 
-GitHub:https://github.com/chandlersoderberg/
+## 🌐 Live Demo
+
+[Live Link](https://your-project.vercel.app)
 
 
-Made with ❤️ using ReactClaude is AI and can make mistakes. Please double-check responses.
+## 👨‍💻 Developer
+
+**Chandler**
+- GitHub: [@chandlersoderberg](https://github.com/chandlersoderberg)
+
+---
+
+**Made with ❤️ using React**
