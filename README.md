@@ -1,2 +1,55 @@
-# book-inventory-management
-A Book Inventory Management System built with React featuring CRUD operations, API integration, and responsive design. Assignment for Software Corp.
+📚 Book Inventory Management System
+A modern React application for managing book inventory with CRUD operations.
+✨ Features
+
+✅ CRUD Operations (Create, Read, Update, Delete)
+✅ API Integration (Google Books API)
+✅ Responsive Design
+✅ Form Validation
+✅ Book Details Page
+✅ Clean UI with Tailwind CSS
+
+🛠️ Tech Stack
+
+React 18
+React Router
+Axios
+Tailwind CSS
+Vite
+
+📦 Installation
+bash# Clone repository
+git clone https://github.com/your-username/book-inventory-management.git
+cd book-inventory-management
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+🚀 Build & Deploy
+bash# Build for production
+npm run build
+
+# Deploy to Vercel/Netlify
+```
+
+## 📁 Project Structure
+```
+src/
+├── components/    # Reusable components
+├── pages/         # Home & BookDetails
+├── services/      # API integration
+├── utils/         # Validation logic
+└── App.jsx        # Main routing
+🌐 Live Demo
+Live Link
+📸 Screenshots
+Show Image
+👨‍💻 Developer
+Your Name
+
+GitHub:https://github.com/chandlersoderberg/
+
+
+Made with ❤️ using ReactClaude is AI and can make mistakes. Please double-check responses.
