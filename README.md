@@ -52,7 +52,7 @@ src/
 
 ## 🌐 Live Demo
 
-[Live Link](https://your-project.vercel.app)
+[Live Link](https://book-inventory.local/)
 
 
 ## 👨‍💻 Developer
