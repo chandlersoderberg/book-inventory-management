@@ -52,7 +52,6 @@ src/
 
 ## 🌐 Live Demo
 
-[Live Link](https://book-inventory.local/)
 
 
 ## 👨‍💻 Developer
