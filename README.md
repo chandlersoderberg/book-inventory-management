@@ -57,7 +57,7 @@ src/
 
 ## 👨‍💻 Developer
 
-**Chandler**
+**Chandler Soderberg**
 - GitHub: [@chandlersoderberg](https://github.com/chandlersoderberg)
 
 ---
